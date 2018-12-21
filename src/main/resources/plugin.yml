@@ -1,6 +1,6 @@
 name: NoFood
 main: nofood.NoFood
-version: "1.0"
+version: "${pom.version}"
 api: ["1.0.0"]
 author: PetteriM1
 description: Plugin that disables food in certain worlds
