@@ -6,7 +6,7 @@
 
     <groupId>nofood</groupId>
     <artifactId>NoFood</artifactId>
-    <version>1.1</version>
+    <version>1.2.0</version>
     <build>
         <defaultGoal>install</defaultGoal>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
